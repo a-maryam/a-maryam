@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Aleena!
+I'm a software engineer focused on backend engineering. 
+
+I'm currently working on:
+- Redis-inspired in-memory key-value store in C
+
+Interested in:
+- systems programming
+- backend infrastructure
+- programming language theory: at a very basic level. I just think that lambda calculus / church encoding is neat!
 
 <!--
 **a-maryam/a-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
