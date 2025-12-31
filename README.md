@@ -1,5 +1,5 @@
 ### Hi, I'm Aleena!
-I'm a software engineer focused on backend engineering. 
+I'm a software engineer focused on backend engineering
 
 I'm currently working on:
 - a redis-inspired in-memory key-value store in C
@@ -7,7 +7,7 @@ I'm currently working on:
 Interested in:
 - systems programming
 - backend infrastructure
-- programming language theory: at a very basic level.
+- programming language theory: at a very basic level
 
 <!--
 **a-maryam/a-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
