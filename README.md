@@ -1,6 +1,7 @@
 #### Hi, I'm Aleena!
 I'm a software engineer focused on backend engineering. 
-I recently completed a redis-inspired in-memory key-value store in C.
+- I'm working on adding features to a trie-based autocomplete API where the logic is C++ which is bridged to .NET through C++/CLI. 
+- I recently completed a redis-inspired in-memory key-value store in C. 
 
 <!--
 **a-maryam/a-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
