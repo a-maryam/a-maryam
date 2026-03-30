@@ -1,7 +1,7 @@
 #### Hi, I'm Aleena!
 I'm a software engineer focused on backend engineering. 
-- I'm currently working on a C#/.NET mini ticketing system web application
-- I have a trie-based autocomplete API on the back-burner. The logic is C++ which is bridged to .NET through C++/CLI. I've got most of the functionality.
+- I'm currently working on a C#/.NET mini ticketing system web application.
+- I have a trie-based autocomplete API on the back-burner. The logic is C++ which is bridged to .NET through C++/CLI.
 - I recently completed a redis-inspired in-memory key-value store in C. 
 
 <!--
