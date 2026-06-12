@@ -1,10 +1,9 @@
 #### Hi, I'm Aleena!
-I'm a software engineer focused on backend engineering. Here's what I've been working on lately:
-- I'm developing my AI skills by building Retrival Augmented Generation (RAG) applications and multi-agent systems. 
-- I recently wrote the backend of a C#/.NET mini ticketing system web app (frontend is mid-development)
-- I built a trie-based autocomplete API. The logic is C++ which is bridged to .NET through C++/CLI.
-- I completed a redis-inspired in-memory key-value store in C. 
-
+I'm a software engineer focused on backend engineering.
+- Building RAG applications and multi-agent systems to expand my AI skill set.
+- Built the backend of a C#/.NET mini ticketing system web application, with the React frontend in development.
+- Built a trie-based autocomplete API using C++/CLI, and .NET.
+- Completed a Redis-inspired in-memory key-value store in C.
 <!--
 **a-maryam/a-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
