@@ -1,7 +1,7 @@
 #### Hi, I'm Aleena!
 - Building RAG applications and multi-agent systems to expand my AI skill set.
 - Built the backend of a C#/.NET mini ticketing system web application, with the React frontend in development.
-- Built a trie-based autocomplete API using C++/CLI, and .NET.
+- Built a trie-based autocomplete API using C++, C++/CLI, and .NET.
 - Completed a Redis-inspired in-memory key-value store in C.
 <!--
 **a-maryam/a-maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
