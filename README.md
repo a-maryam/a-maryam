@@ -1,5 +1,4 @@
 #### Hi, I'm Aleena!
-I'm a software engineer focused on backend engineering.
 - Building RAG applications and multi-agent systems to expand my AI skill set.
 - Built the backend of a C#/.NET mini ticketing system web application, with the React frontend in development.
 - Built a trie-based autocomplete API using C++/CLI, and .NET.
